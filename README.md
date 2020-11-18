@@ -6,6 +6,7 @@ https://pl.wikipedia.org/wiki/Zintegrowane_%C5%9Brodowisko_programistyczne
 https://try.github.io
 https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html
 https://panizkomputerem.pl/czym-jest-git/
+https://git-scm.com/docs
 
 link do prezentacji:
 https://onedrive.live.com/view.aspx?resid=7CCFBD0EA4B371B!203&ithint=file%2cpptx&authkey=!AJ9nnUnkbjQPGJw
